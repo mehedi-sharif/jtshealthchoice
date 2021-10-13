@@ -5,7 +5,6 @@
   {{ with site.Params.variables.primary_color }}"theme_color": "{{.}}",{{ end }}
   {{ with site.Params.variables.body_color }}"background_color": "{{.}}",{{ end }}
 
-  // icon resize
   {{ $icon:= site.Params.favicon }}
   {{ if fileExists (add `assets/` $icon) }}
   {{ $icon:= resources.Get $icon }}
