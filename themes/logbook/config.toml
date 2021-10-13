@@ -54,7 +54,7 @@ icon_font = "Font Awesome 5 Free"
 
 # base font size for full website 
 font_size = "18px" # default is 16px
-font_scale = "1.25" # default is "majorThird": 1.25
+font_scale = "1.333" # default is "majorThird": 1.25
 # Font Scale Sizes
 # "minorSecond": 1.067,
 # "majorSecond": 1.125,
