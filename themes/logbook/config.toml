@@ -45,16 +45,16 @@ light = "#f0f0f0"
 # Give your font name from google font. and add font weight using comma, ex: "Roboto:400,500,900"
 #primary_font = "Open Sans:wght@400"
 #primary_font = "Noto+Sans+TC:wght@500"
-primary_font = "M+PLUS+Rounded+1c"
+primary_font = "M+PLUS+Rounded+1c:wght@100;300;400"
 primary_font_type = "sans-serif" # [serif/sans-serif]
 
-secondary_font = "Montserrat:wght@400"
+secondary_font = "Montserrat:wght@100;300;400"
 secondary_font_type = "sans-serif" # [serif/sans-serif]
 icon_font = "Font Awesome 5 Free"
 
 # base font size for full website 
-font_size = "18px" # default is 16px
-font_scale = "1.333" # default is "majorThird": 1.25
+font_size = "20px" # default is 16px
+font_scale = "1.618" # default is "majorThird": 1.25
 # Font Scale Sizes
 # "minorSecond": 1.067,
 # "majorSecond": 1.125,
