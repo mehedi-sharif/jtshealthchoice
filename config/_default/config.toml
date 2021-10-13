@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/logbook/"
+baseURL = "https://jtshealthchoice-ie01.onrender.com"
 title = "LogBook | Hugo Personal Blog Template"
 theme = "logbook"
 # post pagination
