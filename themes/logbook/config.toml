@@ -48,5 +48,18 @@ primary_font = "Noto+Sans+TC:wght@500"
 primary_font_type = "sans-serif" # [serif/sans-serif]
 #secondary_font = "Montserrat:wght@400"
 secondary_font = "Noto+Serif+TC:wght@500"
-secondary_font_type = "sans-serif" # [serif/sans-serif]
+secondary_font_type = "serif" # [serif/sans-serif]
 icon_font = "Font Awesome 5 Free"
+
+# base font size for full website 
+font_size = "20px" # default is 16px
+font_scale = "1.25" # default is "majorThird": 1.25
+# Font Scale Sizes
+# "minorSecond": 1.067,
+# "majorSecond": 1.125,
+# "minorThird": 1.2,
+# "majorThird": 1.25,
+# "perfectFourth": 1.333,
+# "augmentedFourth": 1.414,
+# "perfectFifth": 1.5,
+# "goldenRatio": 1.618
