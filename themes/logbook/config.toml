@@ -53,7 +53,7 @@ secondary_font_type = "sans-serif" # [serif/sans-serif]
 icon_font = "Font Awesome 5 Free"
 
 # base font size for full website 
-font_size = "24px" # default is 16px
+font_size = "18px" # default is 16px
 font_scale = "1.25" # default is "majorThird": 1.25
 # Font Scale Sizes
 # "minorSecond": 1.067,
